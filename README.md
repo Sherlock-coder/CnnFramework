@@ -35,10 +35,8 @@ fc1:继承自fc的一个类，在实现covid.cpp中有应用
 NumRos:一个类numpy数学库，独立于上述cnn类库
 
 Network:基于NumRos实现的神经网络
-
-
-
-
+###特别鸣谢
+@Rosenberg :email:2084201908@qq.com
 
 
 
