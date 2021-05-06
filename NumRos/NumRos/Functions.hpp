@@ -1,0 +1,11 @@
+#pragma once
+#include"./Functions/zeros.hpp"
+#include"./Functions/ones.hpp"
+#include"./Functions/full.hpp"
+#include"./Functions/sum.hpp"
+#include"./Functions/dot.hpp"
+#include"./Functions/fliplr.hpp"
+#include"./Functions/flipud.hpp"
+#include"./Functions/max.hpp"
+#include"./Functions/argmax.hpp"
+#include"./Functions/exp.hpp"
