@@ -13,6 +13,7 @@ cnn.h:只需要include 这个头文件就可以开始使用cnn类库
 ImagePreprocess:读取图片像素值类库
 
 ImagePreprocess.hpp:只需要include这个头文件即可使用读取图片像素值类库
+ps.读入文件时按照文件名字典序
 
 digit.cpp:手写数字
 
